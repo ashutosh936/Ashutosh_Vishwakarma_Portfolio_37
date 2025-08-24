@@ -12,7 +12,7 @@ This is a responsive, single-page portfolio website created using **HTML**, **CS
 
 - 🌐 HTML5
 - 🎨 CSS3
-- ⚙️ JavaScript (Vanilla)
+- ⚙️ JavaScript 
 
 ## 🚀 Features
 
@@ -26,11 +26,12 @@ This is a responsive, single-page portfolio website created using **HTML**, **CS
 
 ## 🧑‍💻 About Me
 
-I’m **Balram Prajapati**, a B.Tech student with a passion for building web applications and continuously improving my skills. I enjoy learning modern tools, working on impactful projects, and contributing to real-world applications.
+I’m **Ashutosh Vishwakarma**, a B.Tech student with a passion for building web applications and continuously improving my skills. I enjoy learning modern tools, working on impactful projects, and contributing to real-world applications.
 
 ## 📂 Folder Structure
 ```bash
-balramportfolio.github.io/
+Ashutosh_Vishwakarma_Portfolio_37/
+Ashutosh Portfolio
 │
 ├── index.html              # Main landing page
 ├── assets/                 # Images and icons (if any)
